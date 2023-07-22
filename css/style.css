@@ -466,7 +466,7 @@ span {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    padding: .8rem;
+    padding: .3rem;
     background: var(--white-color);
     border: .2rem solid var(--main-color);
     outline: .2rem solid transparent;
@@ -479,6 +479,7 @@ span {
     font-size: 2.4rem;
     color: #333;
 }
+
 
 @media (max-width: 1200px) {
     html {
@@ -688,7 +689,9 @@ span {
 }
   }
 
-@media (max-width: 365px) {
+
+
+@media (max-width: 360px) {
     .about-img img {
         width: 90vw;        
     }
