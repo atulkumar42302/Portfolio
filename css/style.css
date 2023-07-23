@@ -291,7 +291,7 @@ span {
 }
 
 .about-img img {
-    width: 20vw;
+    width: 14vw;
 }
 
 .heading {
@@ -606,7 +606,7 @@ span {
     }
     .home .profession-container .profession-box  {
         position: fixed;
-        top: 60%;
+        top: 53%;
         left: 0;
         border-radius: 0;
         width: 100%;
