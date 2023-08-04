@@ -586,15 +586,13 @@ span {
         display: none;
     }
 }
-.skills {
-    padding-bottom: 7rem;
-}
 .contact {
     min-height: auto;
 }
 .footer {
-    padding: 6rem 7%;
+   padding: 1rem 2%;
 }
+
 @media (max-width: 768px) {
     #menu-icon {
         display: block;
@@ -710,9 +708,7 @@ span {
         width: 70vw;
         margin-top: -2rem;
     }
-    .services h2{
-        margin-bottom: 3rem;
-    }
+
     @media (max-width: 450px) {
      html {
         font-size: 50%;
